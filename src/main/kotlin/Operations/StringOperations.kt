@@ -7,4 +7,7 @@ fun main(args: Array<String>) {
     println(fullName)
     var newString = "My Name is $firstName $lastName"
     println(newString)
+
+    var anotherString = "You can call me ${firstName.uppercase()}"
+    println(anotherString)
 }

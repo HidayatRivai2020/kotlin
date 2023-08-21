@@ -6,3 +6,8 @@
 - Multiplatform Libraries
 - Recommended by Android
 - Syntax is similar to languages such as Java, C#, Scala
+
+## Kotlin Preparation
+- JDK
+- Intellij IDEA
+- Android Studio

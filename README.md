@@ -13,7 +13,7 @@
 - Android Studio
 - SDK
 
-## [Hello World](https://github.com/HidayatRivai2020/kotlin/blob/main/src/main/kotlin/Main.kt)
+## [Hello World](https://github.com/HidayatRivai2020/kotlin/blob/main/src/main/kotlin/)
 - `println("Hello World")`
 
 ## Another Project

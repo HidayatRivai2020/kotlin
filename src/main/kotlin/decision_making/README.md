@@ -1,7 +1,6 @@
 # [Decision-Making](https://github.com/HidayatRivai2020/kotlin/blob/main/src/main/kotlin/decision_making)
 - Used to implement the logic
 - Create the block or branch of the code
-- 
 
 ## [Conditional Operator](https://github.com/HidayatRivai2020/kotlin/blob/main/src/main/kotlin/operation/ConditionalOperator.kt)
 - Compare between 2 values
@@ -40,3 +39,24 @@
 - `value -> /* code here */` : code block that will be executed if the value and the expression are equals
 - `else -> /* code here */` : code block that will be executed if there is no value that equals with expression
 
+## [For Loop](https://github.com/HidayatRivai2020/kotlin/blob/main/src/main/kotlin/operation/ForLoop.kt)
+- Execute the block of codes as long as the condition in range is true
+- `for` : the keyword
+- `(item in a..b)` : the `item` variable still in the ranges of `a` and `b`
+- `{ /** code here **/ }` : block of codes that will be executed as long as the condition is true 
+
+## [While Loop](https://github.com/HidayatRivai2020/kotlin/blob/main/src/main/kotlin/operation/WhileLoop.kt)
+- Execute the block of codes as long as the condition is true
+- Need some syntax to make the condition become false, so it will not be forever loop
+- `while` : the keyword
+- `(condition)` : boolean condition
+- `{ /** code here **/ }` : block of codes that will be executed as long as the condition is true 
+
+## [Do While Loop](https://github.com/HidayatRivai2020/kotlin/blob/main/src/main/kotlin/operation/DoWhileLoop.kt)
+- Execute the block of codes first, then execute them as long as the condition is true
+- The codes will be executed at least once
+- Need some syntax to make the condition become false, so it will not be forever loop
+- `do` : the keyword
+- `{ /** code here **/ }` : block of codes that will be executed as long as the condition is true
+- `while` : the keyword
+- `(condition)` : boolean condition

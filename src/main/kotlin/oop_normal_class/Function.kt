@@ -8,16 +8,20 @@ fun main(args: Array<String>) {
     println(inlineMethod())
 }
 
+// function with return
 fun getMyAge(year: Int): Int {
     return 2023 - year
 }
 
+// function without return
 fun sayName(name: String) {
     println("Hello, My name is $name")
 }
 
+// function without parameter
 fun welcome() {
     println("Welcome To My Application")
 }
 
+// inline function
 fun inlineMethod() = "This is an inline method"

@@ -1,4 +1,4 @@
-package oop
+package oop_normal_class
 
 fun String.removeFirstAndLast(): String = this.substring(1, this.length - 1)
 

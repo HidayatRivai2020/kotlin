@@ -1,4 +1,4 @@
-package oop
+package oop_normal_class
 
 var myVar = "this is global variable"
 

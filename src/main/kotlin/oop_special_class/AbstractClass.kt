@@ -1,4 +1,4 @@
-package oop
+package oop_special_class
 
 abstract class ImageObject {
     abstract fun draw(obj: String)

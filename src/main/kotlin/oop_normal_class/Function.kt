@@ -1,4 +1,4 @@
-package oop
+package oop_normal_class
 
 fun main(args: Array<String>) {
     welcome()

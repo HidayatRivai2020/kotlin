@@ -1,4 +1,4 @@
-package oop
+package oop_normal_class
 
 class Outer() {
     val myString = "this is String from Outer Class"

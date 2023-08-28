@@ -1,4 +1,4 @@
-package oop
+package oop_normal_class
 
 open class Parent() {
     var id: Int? = null;

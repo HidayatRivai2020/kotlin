@@ -1,4 +1,4 @@
-package oop
+package oop_special_class
 
 interface Tech {
     fun clicked();

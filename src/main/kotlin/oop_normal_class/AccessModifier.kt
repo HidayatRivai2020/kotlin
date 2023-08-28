@@ -1,4 +1,4 @@
-package oop
+package oop_normal_class
 
 open class Animal() {
     var name:String = ""
@@ -9,7 +9,7 @@ open class Animal() {
         this.numLegs = numLegs
     }
 
-    fun IntroWithColor() {
+    fun introWithColor() {
         println("${this.name} has ${this.color} and ${this.numLegs} legs")
     }
 
@@ -24,7 +24,7 @@ class Cat : Animal {
         this.numLegs = numLegs
     }
 
-    fun Intro() {
+    fun intro() {
         println("${this.name} has ${this.numLegs} legs")
     }
 }
@@ -32,7 +32,7 @@ class Cat : Animal {
 fun main() {
     var animal = Animal("Jerry", 2)
     animal.setColor("Blue")
-    animal.IntroWithColor()
+    animal.introWithColor()
     var cat = Cat("Tom", 2)
-    cat.Intro()
+    cat.intro()
 }

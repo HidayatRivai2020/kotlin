@@ -1,4 +1,4 @@
-package oop
+package oop_special_class
 
 class CompanionObject {
     companion object {

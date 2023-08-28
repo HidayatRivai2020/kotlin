@@ -1,4 +1,4 @@
-package oop
+package oop_normal_class
 
 open class Vehicle() {
     var id: Int? = null;

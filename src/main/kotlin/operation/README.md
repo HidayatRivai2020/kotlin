@@ -32,5 +32,11 @@
 - `variable--` : get the value first, then decrease the value
 
 ## [Overloading Operator](https://github.com/HidayatRivai2020/kotlin/blob/main/src/main/kotlin/operation/OverloadingOperator.kt)
-- overload a new logic for the operator
+- Overload a new logic for the operator
 - `operator fun functionName(parameter: type) { /** new logic here *// }`
+
+## [String Operations](https://github.com/HidayatRivai2020/kotlin/blob/main/src/main/kotlin/operation/StringOperator.kt)
+- Perform operation between to Strings
+- `+` : concat between two Strings
+- `$variable` : String template that show the value of variable inside of string quotes
+- `{$variable.expression()}` : String template that show the value of variable's expression inside of string quotes

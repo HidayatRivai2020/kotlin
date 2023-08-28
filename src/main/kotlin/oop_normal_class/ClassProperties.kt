@@ -1,4 +1,4 @@
-package oop
+package oop_normal_class
 
 class ClassNoConstructor() {
     var name: String? = null

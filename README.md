@@ -17,17 +17,22 @@
 - [Hello World](https://github.com/HidayatRivai2020/kotlin/blob/main/src/main/kotlin/)
 - [Comments](https://github.com/HidayatRivai2020/kotlin/blob/main/src/main/kotlin/)
 - [Variable](https://github.com/HidayatRivai2020/kotlin/blob/main/src/main/kotlin/variable)
-  - Variable
   - Naming Convention
   - Var
   - Val
+    - Constant Val
   - Variable Type
-  - String
-  - Integer
-  - Float
-  - Double
-  - Boolean
-  - Char
+    - String
+    - Integer
+    - Float
+    - Double
+    - Boolean
+    - Char
+  - Type Conversion
+  - Read Input
+- [Built-in Function](https://github.com/HidayatRivai2020/kotlin/blob/main/src/main/kotlin/variable)
+  - Standard Function
+  - String Function
 
 ## Another Project
 - Kotlin

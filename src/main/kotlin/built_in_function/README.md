@@ -2,6 +2,11 @@
 - The library functions
 - Readily available for use
 
+## [Standard function](https://github.com/HidayatRivai2020/kotlin/blob/main/src/main/kotlin/built_in_function/StringFunction.kt)
+- `print(any)` : show `any` message on the output
+- `println(any)` : show `any` message on the output with new line
+- `readln()` : read user input in line
+
 ## [String Built-in function](https://github.com/HidayatRivai2020/kotlin/blob/main/src/main/kotlin/built_in_function/StringFunction.kt)
 - `get(index)` : return char at specific index
 - `uppercase()` : return a copy of string converted to lower case using Unicode mapping rules of the invariant locale

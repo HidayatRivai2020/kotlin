@@ -12,6 +12,7 @@
 - can't be reserved words
 - don't use words that have special meanings or already defined
 - use camelCase for variable names
+- use UPPERCASE for constant variable names
 
 
 ## [Var](https://github.com/HidayatRivai2020/kotlin/blob/main/src/main/kotlin/variable/VarDefinition.kt)
@@ -25,6 +26,13 @@
 - `val variableName = variableValue`: declare val with value
 - The value and type of val can't be changed
 - use `"\"` when need an escape-character in the value
+
+### [Constants Val](https://github.com/HidayatRivai2020/kotlin/blob/main/src/main/kotlin/variable/ValDefinition.kt)
+- `const val VARIABLE_NAME = variableValue`: declare constant val with value
+- The value and type of val can't be changed
+- Using keyword `const`
+- Top level - declared outside of function
+- Convention: UPPERCASE
 
 ## [Variable Type](https://github.com/HidayatRivai2020/kotlin/blob/main/src/main/kotlin/variable/VarType.kt)
 - the type for variable that created

@@ -56,7 +56,7 @@
 - Single Character data-type
 - Using single quotes = `''`
 
-## [Type Convertion](https://github.com/HidayatRivai2020/kotlin/blob/main/src/main/kotlin/variable/VarType.kt)
+## [Type Conversion](https://github.com/HidayatRivai2020/kotlin/blob/main/src/main/kotlin/variable/TypeConversion.kt)
 - convert variables data-type into another data-type
 - Using function:
   - `.toString()` --> convert data-type into String
@@ -65,3 +65,9 @@
   - `.toInt()` --> convert data-type into Integer
   - `.toBoolean()` --> convert data-type into Boolean
   - `.toChar()` --> convert data-type into Char
+
+## [Read Input](https://github.com/HidayatRivai2020/kotlin/blob/main/src/main/kotlin/variable/UserInput.kt)
+- Variable declaration with read input
+- Using method read-line = `readln()`
+- `var newVariable = readln()`
+- default type of readln() is string

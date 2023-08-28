@@ -30,9 +30,16 @@
     - Char
   - Type Conversion
   - Read Input
-- [Built-in Function](https://github.com/HidayatRivai2020/kotlin/blob/main/src/main/kotlin/variable)
+- [Built-in Function](https://github.com/HidayatRivai2020/kotlin/blob/main/src/main/kotlin/built_in_function)
   - Standard Function
   - String Function
+- [Operation](https://github.com/HidayatRivai2020/kotlin/blob/main/src/main/kotlin/operation)
+  - Math Operation
+  - Math Operation with Class
+  - Increment
+  - Decrement
+  - String Operation
+  - Overloading Operator
 
 ## Another Project
 - Kotlin

@@ -13,14 +13,21 @@
 - Android Studio
 - SDK
 
-## [Hello World](https://github.com/HidayatRivai2020/kotlin/blob/main/src/main/kotlin/)
-- `println("Hello World")`
-
-## [Comments](https://github.com/HidayatRivai2020/kotlin/blob/main/src/main/kotlin/)
-- Comments won't be executed
-- Usually used to explain some code
-- `//`: Single Line comment
-- `/* */`: Multi-Lines comments
+# List of Content
+- [Hello World](https://github.com/HidayatRivai2020/kotlin/blob/main/src/main/kotlin/)
+- [Comments](https://github.com/HidayatRivai2020/kotlin/blob/main/src/main/kotlin/)
+- [Variable](https://github.com/HidayatRivai2020/kotlin/blob/main/src/main/kotlin/variable)
+  - Variable
+  - Naming Convention
+  - Var
+  - Val
+  - Variable Type
+  - String
+  - Integer
+  - Float
+  - Double
+  - Boolean
+  - Char
 
 ## Another Project
 - Kotlin

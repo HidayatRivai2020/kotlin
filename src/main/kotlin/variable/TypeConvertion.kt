@@ -15,4 +15,13 @@ fun main(args: Array<String>) {
 
     var myNewInt = myDouble.toInt()
     println(myNewInt)
+
+    var newInt = 500
+    var myChar = newInt.toChar()
+    println(myChar)
+
+    var newBoolean = "false"
+    var myBoolean = newBoolean.toBoolean()
+    println(myBoolean)
+
 }

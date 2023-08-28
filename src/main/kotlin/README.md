@@ -1,4 +1,4 @@
-# Main.kt
+# [Main.kt](https://github.com/HidayatRivai2020/kotlin/blob/main/src/main/kotlin/Main.kt)
 - `Main` = class name
 - `.kt` = kotlin file extensions
 - `fun` = function
@@ -6,5 +6,12 @@
 - `args` = arguments
 - `Array<String>` = data type
 - `println(msg)` = command
-- `//` = comment
-- `/* */` = multiple lines comment
+
+## Hello World
+- `println("Hello World")`
+
+## Comments
+- Comments won't be executed
+- Usually used to explain some code
+- `//`: Single Line comment
+- `/* */`: Multi-Lines comments

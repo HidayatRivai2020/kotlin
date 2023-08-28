@@ -26,11 +26,6 @@
 - `--variable` : decrease the value first, then get the value
 - `variable--` : get the value first, then decrease the value
 
-## [Decrement](https://github.com/HidayatRivai2020/kotlin/blob/main/src/main/kotlin/operation/Decrement.kt)
-- Decrease the value by 1
-- `--variable` : decrease the value first, then get the value
-- `variable--` : get the value first, then decrease the value
-
 ## [Overloading Operator](https://github.com/HidayatRivai2020/kotlin/blob/main/src/main/kotlin/operation/OverloadingOperator.kt)
 - Overload a new logic for the operator
 - `operator fun functionName(parameter: type) { /** new logic here *// }`

@@ -6,6 +6,11 @@ fun main(args: Array<String>) {
 
     if (num <= 10) {
         println("the value is $num")
+        println("do nothing if the value is > 10")
+    }
+
+    if (num <= 10) {
+        println("the value is $num")
     } else {
         println("invalid value")
     }

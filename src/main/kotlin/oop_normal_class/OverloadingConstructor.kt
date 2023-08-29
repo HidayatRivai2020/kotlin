@@ -17,7 +17,7 @@ open class Vehicle() {
         this.tire = tire
     }
 
-    fun Intro() {
+    fun intro() {
         println("This ${this.name} with id ${this.id} has ${this.tire} tires")
     }
 }
@@ -26,6 +26,6 @@ fun main() {
     var car = Vehicle(1, "car", 4)
     var car2 = Vehicle("Toy", 8)
 
-    car.Intro()
-    car2.Intro()
+    car.intro()
+    car2.intro()
 }

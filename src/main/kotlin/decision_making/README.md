@@ -25,12 +25,6 @@
 - `&&` (and) : return `true` if both conditions are `true`
 - `||` (or) : return `true` if one of the condition is `true`
 
-## [Logical Operator](https://github.com/HidayatRivai2020/kotlin/blob/main/src/main/kotlin/operation/LogicalOperator.kt)
-- Perform Operation to `boolean` in `if (boolean)`
-- `!` (not) : return the negation of the boolean value
-- `&&` (and) : return `true` if both conditions are `true`
-- `||` (or) : return `true` if one of the condition is `true`
-
 ## [When Expression](https://github.com/HidayatRivai2020/kotlin/blob/main/src/main/kotlin/operation/WhenExpression.kt)
 - Select 1 of many code blocks to be executed
 - Similar with `switch` from another programming language

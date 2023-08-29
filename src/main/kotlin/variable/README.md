@@ -43,6 +43,14 @@
 - Text (sequence of character) data-type
 - Using double quotes --> `""`
 
+#### [String function](https://github.com/HidayatRivai2020/kotlin/blob/main/src/main/kotlin/variable/StringFunction.kt)
+- `get(index: Int)` : return char at specific index
+- `uppercase()` : return a copy of string converted to lower case using Unicode mapping rules of the invariant locale
+- `substring(end: Int)` : return substring from 0 until index before the end
+- `substring(start: Int, end: Int)` : return substring from start until index before the end
+- `trim()` : return string with removing space in leading and trailing
+- `uppercase()` : get a copy of string converted to upper case using Unicode mapping rules of the invariant locale
+
 ### [Integer](https://github.com/HidayatRivai2020/kotlin/blob/main/src/main/kotlin/variable/VarType.kt)
 - Number without decimal point data-type
 - Can store the number from -2147483648 to 2147483647

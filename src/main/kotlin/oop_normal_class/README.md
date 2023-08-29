@@ -1,4 +1,4 @@
-# [OOP](https://github.com/HidayatRivai2020/kotlin/blob/main/src/main/kotlin/oop_normal_class)
+# [Basic OOP](https://github.com/HidayatRivai2020/kotlin/blob/main/src/main/kotlin/oop_normal_class)
 - Basic Concept of Object-Oriented Programming
 - `Class` : template for the objects
 - `Object` : instance of the class
@@ -19,7 +19,7 @@
 - Global Variable : declared outside the method, can be accessed from the whole file
 - Local Variable : declared inside the method, only can be  accessed from that method
 
-## [Classes](https://github.com/HidayatRivai2020/kotlin/blob/main/src/main/kotlin/operation/Classes.kt)
+## [Class](https://github.com/HidayatRivai2020/kotlin/blob/main/src/main/kotlin/operation/Classes.kt)
 - The blueprint of the `object`
 - Using keyword `class`
 - Classes can have `properties`

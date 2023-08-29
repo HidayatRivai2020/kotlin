@@ -1,4 +1,4 @@
-# [Advanced OOP](https://github.com/HidayatRivai2020/kotlin/blob/main/src/main/kotlin/oop_special_class)
+# [More OOP](https://github.com/HidayatRivai2020/kotlin/blob/main/src/main/kotlin/oop_special_class)
 
 ## [Companion Object](https://github.com/HidayatRivai2020/kotlin/blob/main/src/main/kotlin/oop_special_class/CompanionObject.kt)
 - Object declaration inside a class

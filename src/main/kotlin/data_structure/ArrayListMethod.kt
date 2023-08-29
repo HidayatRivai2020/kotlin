@@ -19,7 +19,7 @@ fun main(args: Array<String>) {
     println(myArrayList.get(1))
 
     // remove
-    myArrayList.add("test")
+    myArrayList.remove("test")
     println(myArrayList[0])
 
     // set

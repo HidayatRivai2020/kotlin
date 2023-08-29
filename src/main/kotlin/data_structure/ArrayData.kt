@@ -1,8 +1,9 @@
 package data_structure
 
 fun main() {
-    var myArray = Array<Int>(5){0}
+    var myArray = Array(5){0}
 
+    // print array from loop
     for (item in myArray) {
         println(item)
     }
@@ -13,14 +14,16 @@ fun main() {
     myArray[3] = 3
     myArray[4] = 9
 
+    // print array from index
     for (index in myArray.indices) {
         println("Item in index $index is ${myArray[index]}")
     }
 
     println("-------------------------")
-    var arrOf = arrayOf(1, 3, 5,7)
+    //create array from arrayOf
+    var arrOf = arrayOf(1, 3, 5, "test")
 
-    for (index in arrOf.indices) {
+    for (index in 0..arrOf.size) {
         println("Item in index $index is ${myArray[index]}")
     }
 }

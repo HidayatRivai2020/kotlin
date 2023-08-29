@@ -13,15 +13,15 @@ fun main(args: Array<String>) {
 
     println("----------------------------")
     // immutable list
-    var names = listOf<String>("Jack", "James", "John", "Jimmy")
+    var names = listOf("Jack", "James", "John", "Jimmy")
     for (a in names) {
         println("name: $a")
     }
     println(names[0])
 
     println("----------------------------")
-    // immutable list
-    var anotherNames = mutableListOf<String>("Karen", "Elli", "Marie", "Ann")
+    // mutable list
+    var anotherNames = mutableListOf("Karen", "Elli", "Marie", "Ann")
     anotherNames.add(5, "Popuri")
     anotherNames[2] = "Mary"
     for (a in anotherNames) {

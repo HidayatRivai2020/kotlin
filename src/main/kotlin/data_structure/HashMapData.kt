@@ -12,6 +12,14 @@ fun main(args: Array<String>) {
         println("${i.key} ==> ${i.value}")
     }
 
+    for (i in hashMap.keys) {
+        println("$i ==> ${hashMap[i]}")
+    }
+
+    for (i in hashMap.values) {
+        println("values : $i")
+    }
+
     println("------------------------")
     var newHashMap = hashMapOf(1 to "Red", 5 to "Yellow", 10 to "green")
     for (i in newHashMap) {

@@ -1,4 +1,4 @@
-package built_in_function
+package variable
 
 fun main(args: Array<String>) {
     var tooManySpace = "    Test     "

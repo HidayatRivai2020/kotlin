@@ -2,7 +2,9 @@ package oop_special_class
 
 class CompanionObject {
     companion object {
-        fun companionObjectWithoutName() = println("call this method without creating an object")
+        fun companionObjectWithoutName() {
+            println("call this method without creating an object")
+        }
     }
 }
 

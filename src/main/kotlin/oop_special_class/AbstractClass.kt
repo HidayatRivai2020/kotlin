@@ -1,6 +1,9 @@
 package oop_special_class
 
 abstract class ImageObject {
+    fun copyright() {
+        println("this image is not copyrighted")
+    }
     abstract fun draw(obj: String)
     abstract fun resize()
 }
@@ -20,4 +23,5 @@ fun main() {
     var photo = Photo()
     photo.draw("Cube")
     photo.resize()
+    photo.copyright()
 }

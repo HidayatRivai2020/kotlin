@@ -1,6 +1,6 @@
 # [Data Structure](https://github.com/HidayatRivai2020/kotlin/blob/main/src/main/kotlin/data_structure)
 
-## [Array](https://github.com/HidayatRivai2020/kotlin/blob/main/src/main/kotlin/data_structure/Array.kt)
+## [Array](https://github.com/HidayatRivai2020/kotlin/blob/main/src/main/kotlin/data_structure/ArrayData.kt)
 - Used to store multiple values in a single variable
 - Can be accessed by index
 - Index start from 0

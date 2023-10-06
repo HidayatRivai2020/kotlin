@@ -78,6 +78,6 @@
   - Write into File
 
 ## Another Project
-- Kotlin
-- Kotlin For Android
-- Kotlin Android Exercise
+- [Kotlin](https://github.com/HidayatRivai2020/kotlin)
+- [Kotlin For Android](https://github.com/HidayatRivai2020/kotlin_android_exercise)
+- [Kotlin Android Exercise](https://github.com/HidayatRivai2020/Kotlin_for_Android)
